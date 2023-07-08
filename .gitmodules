@@ -1,6 +1,6 @@
 [submodule "springboot-feign-client"]
 	path = springboot-feign-client
-	url = ./springboot-feign-client
+	url = https://github.com/playwithjavaDOTin/springboot-feign-client.git
 [submodule "employee-service"]
 	path = employee-service
 	url = https://github.com/playwithjavaDOTin/employee-service.git
