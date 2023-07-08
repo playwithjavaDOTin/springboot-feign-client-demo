@@ -1,0 +1,3 @@
+[submodule "springboot-feign-client"]
+	path = springboot-feign-client
+	url = ./springboot-feign-client
