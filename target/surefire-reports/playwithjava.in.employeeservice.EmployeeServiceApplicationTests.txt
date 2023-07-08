@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: playwithjava.in.employeeservice.EmployeeServiceApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.326 s - in playwithjava.in.employeeservice.EmployeeServiceApplicationTests
